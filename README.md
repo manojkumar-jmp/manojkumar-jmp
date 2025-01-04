@@ -22,4 +22,8 @@ Currently, I am employed with [Explicate, Inc](https://www.explicateinc.com/) on
 ### Interpersonal: 
 - Cross-functional Collaboration, Team Management, Requirement Analysis, Prioritization, Roadmap;
 - Design - User Research, UX & UI design;
-- Practices - Agile Methodologies, SOLID Principles;
+- Practices - Agile Methodologies, SOLID Principles
+### Strong Believer:
+- Innovation, Creativity, Smart solutions
+- Build it right the first time and Build to scale
+- Staying hands-on and having an ultimate end-customer focus
