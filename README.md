@@ -9,15 +9,15 @@ I am having 19+ years of hands-on experience in software development, I have hel
   
 ## Summary
 ### Professional skills: 
-- Technology: Microsoft Technologies - ASP.NET Web API, WCF, Windows Services, ASP.NET Core, WPF, gRPC;
+- Technology - ASP.NET Web API, WCF, Windows Services, ASP.NET Core, WPF, gRPC;
 - Languages - C#.net, Java Script, Python;
 - Databases - Microsoft SQL Server, PostgreSQL;
-- Framework: .NET Framework, Core, Frappe, Django;
+- Framework - .NET Framework, Core, Frappe, Django;
 - IDE - Visual Studio, Visual Studio Code;
 - Version Control Software - Git, Perforce, Star Team;
-- Cloud Platform: AWS, DigitalOcean;
+- Cloud Platform - AWS, DigitalOcean;
 - Containerization using Docker;
 ### Interpersonal: 
 - Cross-functional Collaboration, Team Management, Requirement Analysis, Prioritization, Roadmap;
-- Design: User Research, UX & UI design;
-- Practices: Agile Methodologies, SOLID Principles;
+- Design - User Research, UX & UI design;
+- Practices - Agile Methodologies, SOLID Principles;
