@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hi .. I'm Manoj 
 
-I am having over one and a half decade experience working with MNC's and more three years of working as Self Employed. 
+I am having 19+ years of hands-on experience in software development, I have held various roles across development and design to solution architecture and technical leadership. Throughout my career, I've been passionate about leveraging my skills and expertise to create efficient, scalable, and innovative solutions using  Microsoft technologies.
+
 * Experience on architecture, design, development and deployment on Microsoft Technology and managing team.
 * Coordination with different development teams to finalize and design REST API.
 * Experience on debugging applications and tracking defects and re-factor complex code written by others.
