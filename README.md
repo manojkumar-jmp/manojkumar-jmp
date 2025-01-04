@@ -2,7 +2,7 @@
 
 I am having 19+ years of hands-on experience in software development, I have held various roles across development and design to solution architecture and technical leadership. Throughout my career, I've been passionate about leveraging my skills and expertise to create efficient, scalable, and innovative solutions using  Microsoft technologies.
 
-Currently, I am working with Omnissa on the Workspace ONE product, where I contribute my expertise to enhance the platform's capabilities and improve user experiences. In my free time, I am passionate about creating video content to share my technical knowledge with the community, helping others stay updated with industry trends and best practices.
+Currently, I am working with [Omnissa](https://www.omnissa.com/) on the Workspace ONE product, where I contribute my expertise to enhance the platform's capabilities and improve user experiences. In my free time, I am passionate about creating video content to share my technical knowledge with the community, helping others stay updated with industry trends and best practices.
 
 * Experience on architecture, design, development and deployment on Microsoft Technology and managing team.
 * Coordination with different development teams to finalize and design REST API.
