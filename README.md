@@ -1,3 +1,7 @@
+<!---
+manojkumar-jmp/manojkumar-jmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 <h1 align="center">Hi 👋, I'm Manoj Kumar</h1>
 
 I am having 19+ years of hands-on experience in software development, I have held various roles across development and design to solution architecture and technical leadership. Throughout my career, I've been passionate about leveraging my skills and expertise to create efficient, scalable, and innovative solutions using  Microsoft Technology Stack (.Net Core, ASP.Net MVC, C#, WebAPI, SQL Server).
@@ -18,6 +22,12 @@ Currently, I am employed with [Explicate, Inc](https://www.explicateinc.com/) on
 ### 📈 Languages I Speak
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar-jmp&langs_count=10&layout=compact&theme=radical)
+
+<!---
+### 🏆 GitHub Trophies
+
+![GitHub Tropies](https://github-profile-trophy.vercel.app/?username=manojkumar-jmp&theme=radical&no-frame=false&no-bg=true)
+--->
 
 <p align="left"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
