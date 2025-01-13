@@ -5,10 +5,16 @@ I am having 19+ years of hands-on experience in software development, I have hel
 Currently, I am employed with [Explicate, Inc](https://www.explicateinc.com/) on their payroll, providing services to Workspace ONE product while working directly with [Omnissa](https://www.omnissa.com/) as a contractor, where I contribute my expertise to enhance the platform's capabilities and improve user experiences. In my free time, I am passionate about creating video content and writing blogs to share my technical knowledge with the community, helping others stay updated with industry trends and best practices.
 
 ### Strong Believer:
+
 - Passionate about tech, proud of my craft.
 - Innovation, Creativity, Smart solutions.
 - Build it right the first time and Build to scale.
 - Staying hands-on and having an ultimate end-customer focus.
 
 ### 🏆 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumar-jmp&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+### 📈 Languages I Speak
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar-jmp&langs_count=10&layout=compact&theme=radical)
