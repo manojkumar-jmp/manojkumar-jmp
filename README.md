@@ -9,3 +9,6 @@ Currently, I am employed with [Explicate, Inc](https://www.explicateinc.com/) on
 - Innovation, Creativity, Smart solutions.
 - Build it right the first time and Build to scale.
 - Staying hands-on and having an ultimate end-customer focus.
+
+### 🏆 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumar-jmp&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
