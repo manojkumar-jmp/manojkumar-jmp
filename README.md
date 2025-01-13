@@ -19,4 +19,8 @@ Currently, I am employed with [Explicate, Inc](https://www.explicateinc.com/) on
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar-jmp&langs_count=10&layout=compact&theme=radical)
 
-#### Thank you for visiting my profile! 🎉
+<p align="left"> 
+ 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
+ <img src="https://profile-counter.glitch.me/manojkumar-jmp/count.svg"/>
+</p>
+Thank you for visiting my profile! 🎉
