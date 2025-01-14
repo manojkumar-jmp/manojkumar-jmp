@@ -28,9 +28,6 @@ Currently, I am employed with [Explicate, Inc](https://www.explicateinc.com/) on
 
 ![GitHub Tropies](https://github-profile-trophy.vercel.app/?username=manojkumar-jmp&theme=radical&no-frame=false&no-bg=true)
 --->
+![](https://komarev.com/ghpvc/?username=manojkumar-jmp&abbreviated=true)
 
-<p align="left"> 
- 🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
- <img src="https://profile-counter.glitch.me/manojkumar-jmp/count.svg"/>
-</p>
 Thank you for visiting my profile! 🎉
