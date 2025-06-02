@@ -8,6 +8,8 @@ I am having 19+ years of hands-on experience in software development, I have hel
 
 In addition to my core .NET skills, I bring extensive experience in ERPNext installation, customization, and process automation—helping organizations optimize their business workflows and achieve digital transformation.
 
+I have played a key role in organizational change by helping my team successfully transition from the traditional Waterfall model to Agile methodologies, fostering improved collaboration, faster delivery, and continuous improvement.
+
 I'm passionate about clean code, best practices, and sharing knowledge with the developer community. Open to collaboration on open source projects and always eager to explore new challenges in the world of software development.
 
 ### Strong Believer:
