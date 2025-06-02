@@ -6,7 +6,9 @@ You can click the Preview link to take a look at your changes.
 
 I am having 19+ years of hands-on experience in software development, I have held various roles across development and design to solution architecture and technical leadership. Throughout my career, I've been passionate about leveraging my skills and expertise to create efficient, scalable, and innovative solutions using  Microsoft Technology Stack (.Net Core, ASP.Net MVC, C#, WebAPI, SQL Server).
 
-Currently, I am employed with [Explicate, Inc](https://www.explicateinc.com/) on their payroll, providing services to Workspace ONE product while working directly with [Omnissa](https://www.omnissa.com/) as a contractor, where I contribute my expertise to enhance the platform's capabilities and improve user experiences. In my free time, I am passionate about creating video content and writing blogs to share my technical knowledge with the community, helping others stay updated with industry trends and best practices.
+In addition to my core .NET skills, I bring extensive experience in ERPNext installation, customization, and process automation—helping organizations optimize their business workflows and achieve digital transformation.
+
+I'm passionate about clean code, best practices, and sharing knowledge with the developer community. Open to collaboration on open source projects and always eager to explore new challenges in the world of software development.
 
 ### Strong Believer:
 
