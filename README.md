@@ -39,3 +39,7 @@ Thank you for visiting my profile! 🎉
 > Want to use this template? Just fork it and make it your own. 🚀
 
 #### If you like my project, show some love with a ⭐ star!
+
+> Contributions are always welcome! 🚀
+> Feel free to submit pull requests, open issues, or reach out via email.
+> If you'd like to discuss proposals or ideas, you can book a time to chat — just be sure to include an agenda so we can make it productive.
