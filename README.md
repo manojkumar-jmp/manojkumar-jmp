@@ -35,3 +35,7 @@ I'm passionate about clean code, best practices, and sharing knowledge with the 
 ![](https://komarev.com/ghpvc/?username=manojkumar-jmp&abbreviated=true)
 
 Thank you for visiting my profile! 🎉
+
+> Want to use this template? Just fork it and make it your own. 🚀
+
+#### If you like my project, show some love with a ⭐ star!
