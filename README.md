@@ -21,11 +21,11 @@ I'm passionate about clean code, best practices, and sharing knowledge with the 
 
 ### 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manojkumar-jmp&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=manojkumar-jmp&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ### 📈 Languages I Speak
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manojkumar-jmp&langs_count=10&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manojkumar-jmp&langs_count=10&layout=compact&theme=radical)
 
 <!---
 ### 🏆 GitHub Trophies
