@@ -1,4 +1,4 @@
-<img width="1536" height="562" alt="manoj-github" src="https://github.com/user-attachments/assets/e98e58a3-c550-4f3c-a144-721994830cd9" />
+<img width="1536" height="547" alt="manoj-kumar-linkedin-final-11-1" src="https://github.com/user-attachments/assets/04ba938c-a939-4808-8fd1-cebe88792f59" />
 
 <!---
 manojkumar-jmp/manojkumar-jmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
