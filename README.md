@@ -1,3 +1,6 @@
+<img width="1536" height="558" alt="manoj-kumar-jmp-linkedin" src="https://github.com/user-attachments/assets/31b43bd2-e71c-43b2-81ec-5203e466deb7" />
+
+
 <!---
 manojkumar-jmp/manojkumar-jmp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
