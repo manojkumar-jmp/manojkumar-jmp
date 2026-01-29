@@ -36,6 +36,14 @@ I'm passionate about clean code, best practices, and sharing knowledge with the 
 --->
 ![](https://komarev.com/ghpvc/?username=manojkumar-jmp&abbreviated=true)
 
+## 📝 Latest Article on LinkedIn
+<!-- LinkedIn Article:START -->
+- [As software developers, we usually fail in one of two ways:](https://www.linkedin.com/pulse/two-failure-paths-manoj-kumar-9umsc/?trackingId=W2vPyl50T72f50qgRyOwNA%3D%3D)
+- [When Domain-Driven Design Helps — and When It Doesn’t](https://www.linkedin.com/pulse/when-domain-driven-design-helps-doesnt-manoj-kumar-rj7rc/)
+- [Strategic DDD Is Your Edge in the AI Era](https://www.linkedin.com/pulse/strategic-ddd-your-edge-ai-era-manoj-kumar-jg25c/?trackingId=pIpGJywERFHIna2UMFnngA%3D%3D)
+- [The Complete Strategic DDD Flow](https://www.linkedin.com/pulse/complete-strategic-ddd-flow-manoj-kumar-grdec/?trackingId=uE7wCOXnStum6DDypVyCgQ%3D%3D)
+<!-- LinkedIn Article:END -->
+
 Thank you for visiting my profile! 🎉
 
 > Want to use this template? Just fork it and make it your own. 🚀
