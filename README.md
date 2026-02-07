@@ -38,6 +38,7 @@ I'm passionate about clean code, best practices, and sharing knowledge with the 
 
 ## 📝 Latest Article on LinkedIn
 <!-- LinkedIn Article:START -->
+- [What’s next after being a senior developer?](https://www.linkedin.com/pulse/whats-next-after-being-senior-developer-manoj-kumar-1jdmc/?trackingId=JY9GXOdxTk%2BtcHX5iq3vTg%3D%3D)
 - [As software developers, we usually fail in one of two ways:](https://www.linkedin.com/pulse/two-failure-paths-manoj-kumar-9umsc/?trackingId=W2vPyl50T72f50qgRyOwNA%3D%3D)
 - [When Domain-Driven Design Helps — and When It Doesn’t](https://www.linkedin.com/pulse/when-domain-driven-design-helps-doesnt-manoj-kumar-rj7rc/)
 - [Strategic DDD Is Your Edge in the AI Era](https://www.linkedin.com/pulse/strategic-ddd-your-edge-ai-era-manoj-kumar-jg25c/?trackingId=pIpGJywERFHIna2UMFnngA%3D%3D)
